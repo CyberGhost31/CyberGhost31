@@ -7,7 +7,7 @@
 </p>
 <p>
   <a href="https://en.wikipedia.org/wiki/C%2B%2B">
-    <img src="https://commons.wikimedia.org/wiki/File:ISO_C%2B%2B_Logo.svg#/media/File:ISO_C++_Logo.svg" alt="C++" height="30">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" height="30">
   </a>
 </p>
 <p>
