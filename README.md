@@ -2,7 +2,7 @@
 - 👀 I’m interested in:
 <p>
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
-    <img src="https://commons.wikimedia.org/wiki/File:C_Programming_Language.svg" alt="C" height="30">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C" height="30">
   </a>
 </p>
 <p>
