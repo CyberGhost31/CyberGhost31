@@ -1,4 +1,4 @@
-# Hi there, I'm [LWeiss618](t.me/LLawleit) 
+# Hi there, I'm [CyberGhost31](t.me/LLawleit) 
 ### Computer science student from Russia 🇷🇺
 
 I'm currently learning:
