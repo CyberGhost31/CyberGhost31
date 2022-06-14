@@ -8,3 +8,7 @@ I'm currently learning:
 My skills:
 
 ![Kivy Framework](https://img.shields.io/badge/-Kivy-blue?style=for-the-badge)  ![Asyncio Framework](https://img.shields.io/badge/-Asyncio-blue?style=for-the-badge)
+
+How to reach me:
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/CyberGhost31)
