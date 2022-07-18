@@ -1,4 +1,4 @@
-# Hi there, I'm [CyberGhost31](t.me/CyberGhost31) 
+# Hi there, I'm [CyberGhost31](https://t.me/CyberGhost31) 
 ### Computer science student from Russia 🇷🇺
 
 I'm currently learning:
